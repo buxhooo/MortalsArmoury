@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/et2fPHTZBz6NKKv/boNklkZaiX1fCp3sAw+bTevN6xd9hBP7chDXv7RO6Uqo1qSTY75wRuIA+sJ92OEL26Pxg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\coleg\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\MortalsArmory\\MortalsArmoury.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\coleg\\.nuget\\packages\\tmodloader.codeassist\\0.1.5\\tmodloader.codeassist.0.1.5.nupkg.sha512"
+  ],
+  "logs": []
+}

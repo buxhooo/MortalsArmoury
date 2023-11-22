@@ -1,0 +1,3 @@
+displayName = Mortal's Armoury
+author = Mortal
+version = 0.1

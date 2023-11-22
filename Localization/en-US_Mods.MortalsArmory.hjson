@@ -1,0 +1,44 @@
+Items: {
+	TheAce: {
+		DisplayName: The Ace
+		Tooltip:
+			'''
+			Converts musket balls into powerful 'Memento Mori' shots that pierce infinitely
+			'Folding was never an option.'
+			'''
+	}
+
+	MementoMoriBullet: {
+		DisplayName: Memento Mori Bullet
+		Tooltip: ""
+	}
+
+	RelicShard: {
+		DisplayName: Relic Shard
+		Tooltip: ""
+	}
+
+	ExampleItem: {
+		DisplayName: Example Item
+		Tooltip: ""
+	}
+}
+
+Projectiles.MementoMoriProj.DisplayName: Memento Mori Proj
+
+NPCs: {
+	Wanderer: {
+		DisplayName: Wanderer
+
+		TownNPCMood: {
+			Content: I am content.
+			NoHome: I hate not having a home.
+			FarFromHome: I am too far from home.
+			LoveSpace: I love having so much space.
+			DislikeCrowded: I dislike how crowded I am.
+			HateCrowded: I hate how crowded I am.
+			LikeNPC_Princess: I like {NPCName}.
+			Princess_LovesNPC: I like {NPCName}.
+		}
+	}
+}
